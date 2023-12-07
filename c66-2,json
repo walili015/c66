@@ -1,0 +1,12 @@
+{
+  "AdsController": {
+    "ratingactive": true,
+    "modeads": true,
+    "IMG1_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=xxxxxxx",
+    "IMG2_URL": "https://cross-pan.netlify.app/c71-1-b.png",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=xxxx",
+    "IMG3_URL": "https://cross-pan.netlify.app/c71-1-a.png",
+    "TEXT3_URL": "https://play.google.com/store/apps/details?id=com.xxxxxxxxxxxxxxx"
+  }
+}
