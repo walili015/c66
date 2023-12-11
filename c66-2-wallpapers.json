@@ -40,5 +40,40 @@
     "previewUrl": "https://i.pinimg.com/564x/8c/6d/9c/8c6d9c82e120f0771e58fa180537602b.jpg",
     "categories": "Galaxy",
     "premium": true
+  },
+    {
+    "name": "Galaxy a",
+    "url": "https://i.pinimg.com/564x/3d/00/70/3d0070e31ec48d0f8ab1a2b3d01a5a73.jpg",
+    "previewUrl": "https://i.pinimg.com/564x/3d/00/70/3d0070e31ec48d0f8ab1a2b3d01a5a73.jpg",
+    "categories": "Galaxy",
+    "premium": false
+  },
+    {
+    "name": "Sky s",
+    "url": "https://i.pinimg.com/564x/41/d7/43/41d743da4ebc85775231ab92eb0ed586.jpg",
+    "previewUrl": "https://i.pinimg.com/564x/41/d7/43/41d743da4ebc85775231ab92eb0ed586.jpg",
+    "categories": "Sky",
+    "premium": false
+  },
+    {
+    "name": "Sky d",
+    "url": "https://i.pinimg.com/564x/cc/6b/48/cc6b481b962d9aff3d7a4bfaa3e0ff1b.jpg",
+    "previewUrl": "https://i.pinimg.com/564x/cc/6b/48/cc6b481b962d9aff3d7a4bfaa3e0ff1b.jpg",
+    "categories": "Sky",
+    "premium": false
+  },
+    {
+    "name": "Sky f",
+    "url": "https://i.pinimg.com/564x/84/da/92/84da92f029f5dac18a0fdf43d8889a0f.jpg",
+    "previewUrl": "https://i.pinimg.com/564x/84/da/92/84da92f029f5dac18a0fdf43d8889a0f.jpg",
+    "categories": "Sky",
+    "premium": false
+  },
+    {
+    "name": "Galaxy g",
+    "url": "https://i.pinimg.com/564x/1e/0f/83/1e0f839e01d1bbc73c4862fbdc246831.jpg",
+    "previewUrl": "https://i.pinimg.com/564x/1e/0f/83/1e0f839e01d1bbc73c4862fbdc246831.jpg",
+    "categories": "Galaxy",
+    "premium": true
   }
 ]
