@@ -1,20 +1,26 @@
 [
   {
-    "name": "Abstract",
-    "preview1": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdHxlbnwwfHx8fDE2NTAxMjE2ODg&ixlib=rb-1.2.1&q=80&w=400",
-    "preview2": "https://images.unsplash.com/photo-1565619624098-cf4168a7cd9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfHNlYXJjaHwyMnx8cGF0dGVybnxlbnwwfHx8fDE2NDM5NDYzOTI&ixlib=rb-1.2.1&q=80&w=400",
-    "preview3": "https://images.unsplash.com/photo-1642615835477-d303d7dc9ee9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfGNvbGxlY3Rpb258MzV8MzE3MDk5fHx8fHwyfHwxNjQzODA2NTI4&ixlib=rb-1.2.1&q=80&w=400"
+    "name": "Sad Anime",
+    "preview1": "https://i.pinimg.com/474x/50/e1/10/50e11072354e384ec04b4b148584f275.jpg",
+    "preview2": "https://i.pinimg.com/474x/70/2c/84/702c843ce68aa62d2dc9968a03f40bc4.jpg",
+    "preview3": "https://i.pinimg.com/474x/57/67/3f/57673f36a1b414ec23897e7a77a20bf7.jpg"
   },
   {
-    "name": "Adventure",
-    "preview1": "https://images.unsplash.com/photo-1636964204923-ebb7558340b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfGNvbGxlY3Rpb258MTk1fDMxNzA5OXx8fHx8Mnx8MTY0NTI0ODAyMg&ixlib=rb-1.2.1&q=80&w=400",
-    "preview2": "https://images.unsplash.com/photo-1642509065947-5569edd10854?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfGNvbGxlY3Rpb258MzN8MzE3MDk5fHx8fHwyfHwxNjQzODA2NTI4&ixlib=rb-1.2.1&q=80&w=400",
-    "preview3": "https://images.unsplash.com/photo-1611269035330-13ea6a4c3019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfGNvbGxlY3Rpb258MTV8MzE3MDk5fHx8fHwyfHwxNjQzODA2NTI4&ixlib=rb-1.2.1&q=80&w=400"
+    "name": "Sad Girl",
+    "preview1": "https://i.pinimg.com/474x/d9/0b/9f/d90b9ff93f5dd1f12853e80e730de5b4.jpg",
+    "preview2": "https://i.pinimg.com/474x/be/d0/bf/bed0bfc1e2ca982b2002da599c5eab4e.jpg",
+    "preview3": "https://i.pinimg.com/474x/fd/d7/e0/fdd7e0fb14d2c6be16ccf76b95594ff3.jpg"
   },
   {
-    "name": "r4t4t4",
-    "preview1": "https://images.unsplash.com/photo-1528645944521-c061770de25d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfHNlYXJjaHwxMTd8fGZlc3RpdmFsfGVufDB8fHx8MTY0NTI5MDM4Mg&ixlib=rb-1.2.1&q=80&w=400",
-    "preview2": "https://images.unsplash.com/photo-1516450137517-162bfbeb8dba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfHNlYXJjaHwzOHx8ZmVzdGl2YWx8ZW58MHx8fHwxNjQ1MjkwMzEw&ixlib=rb-1.2.1&q=80&w=400",
-    "preview3": "https://images.unsplash.com/photo-1606029246036-7b352c188652?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNTY4MjV8MHwxfHNlYXJjaHwyMTh8fHdhbGxwYXBlciUyMG1vYmlsZXxlbnwwfHx8fDE2NDM3ODAxMTU&ixlib=rb-1.2.1&q=80&w=400"
+    "name": "Anime Wallpapers",
+    "preview1": "https://i.pinimg.com/474x/df/79/3f/df793f714c8f49b34fdb482153b9ce06.jpg",
+    "preview2": "https://i.pinimg.com/474x/6e/2b/a7/6e2ba7522ccde442a03678f55235fd7a.jpg",
+    "preview3": "https://i.pinimg.com/474x/7a/5f/4f/7a5f4fdeb5d0aac00530e09bea810bce.jpg"
+  },
+  {
+    "name": "Sad Wallpapers",
+    "preview1": "https://i.pinimg.com/474x/55/db/0f/55db0fe39d8cf7123c761a75eb0d1430.jpg",
+    "preview2": "https://i.pinimg.com/474x/64/09/fe/6409feb7c3aef0330489673da4e47d28.jpg",
+    "preview3": "https://i.pinimg.com/474x/cd/36/4b/cd364b5982706ebcef3a72c3704c3f8b.jpg"
   }
 ]
