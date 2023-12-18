@@ -1,26 +1,14 @@
 [
   {
-    "name": "Sad Anime",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Toca Boca",
+    "preview1": "https://i.pinimg.com/736x/8a/33/5b/8a335bacc249470fdaa5eae6c27131df.jpg",
+    "preview2": "https://i.pinimg.com/564x/1a/72/23/1a722314ba6e5c0e4b0068ce712f67a0.jpg",
+    "preview3": "https://i.pinimg.com/564x/9f/2a/17/9f2a170395cd24545b0ffff59f62780e.jpg"
   },
   {
-    "name": "Adventure",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
-  },
-  {
-    "name": "Nature",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
-  },
-  {
-    "name": "Movies",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Toca Rooms",
+    "preview1": "https://i.pinimg.com/736x/9f/28/d1/9f28d179d4ccff4467485bbe1f12577a.jpg",
+    "preview2": "https://i.pinimg.com/564x/fd/b9/5f/fdb95f6e64b18eb35078ca4627c5046f.jpg",
+    "preview3": "https://i.pinimg.com/564x/47/fc/30/47fc306f6f2460b1dabd5a3a7bb134fe.jpg"
   }
 ]
