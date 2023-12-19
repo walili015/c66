@@ -18,14 +18,14 @@
     "url": "https://i.pinimg.com/564x/27/08/4a/27084af2d28448de939fc9a85ada803b.jpg",
     "previewUrl": "https://i.pinimg.com/564x/27/08/4a/27084af2d28448de939fc9a85ada803b.jpg",
     "categories": "Toca Boca",
-    "premium": true
+    "premium": false
   },
   {
     "name": "image2",
     "url": "https://i.pinimg.com/564x/21/23/b8/2123b8a831da9d5355dff272354d32e5.jpg",
     "previewUrl": "https://i.pinimg.com/564x/21/23/b8/2123b8a831da9d5355dff272354d32e5.jpg",
     "categories": "Toca Boca",
-    "premium": true
+    "premium": false
   },
   {
     "name": "image2",
@@ -39,7 +39,7 @@
     "url": "https://i.pinimg.com/564x/1a/72/23/1a722314ba6e5c0e4b0068ce712f67a0.jpg",
     "previewUrl": "https://i.pinimg.com/564x/1a/72/23/1a722314ba6e5c0e4b0068ce712f67a0.jpg",
     "categories": "Toca Boca",
-    "premium": true
+    "premium": false
   },
   {
     "name": "image3",
