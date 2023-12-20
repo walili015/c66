@@ -1,26 +1,26 @@
 [
   {
-    "name": "Sad Anime",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Paw Wallpapers",
+    "preview1": "https://i.pinimg.com/736x/de/7c/37/de7c37c174c177e7b4f72a2549cef334.jpg",
+    "preview2": "https://i.pinimg.com/474x/4e/3a/5d/4e3a5d58e23b7bc7c8a277d8d3712e77.jpg",
+    "preview3": "https://i.pinimg.com/564x/b3/a6/b5/b3a6b5baea6c932e3f607c06bfce7be3.jpg"
   },
   {
-    "name": "Adventure",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Chase",
+    "preview1": "https://i.pinimg.com/474x/02/8b/13/028b131c1e047305757828e83023021e.jpg",
+    "preview2": "https://i.pinimg.com/474x/59/6b/c1/596bc15a195284bd8aa28252e6b288e1.jpg",
+    "preview3": "https://i.pinimg.com/474x/47/72/fe/4772feff10e73c1faea3f7bf872749f3.jpg"
   },
   {
-    "name": "Nature",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Skye",
+    "preview1": "https://i.pinimg.com/474x/7e/7b/71/7e7b719472fdc910f10d359868f9c609.jpg",
+    "preview2": "https://i.pinimg.com/474x/0f/05/8e/0f058e6cb3ec616fc7f59350faae73d1.jpg",
+    "preview3": "https://i.pinimg.com/474x/39/60/0e/39600e86f349a78e9ac1f3c3aed45380.jpg"
   },
   {
-    "name": "Movies",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Others",
+    "preview1": "https://i.pinimg.com/474x/98/c2/c7/98c2c74e6049a1ac8e619e912e90914e.jpg",
+    "preview2": "https://i.pinimg.com/474x/62/89/fa/6289fa5aeae37083adbf21d349915bee.jpg",
+    "preview3": "https://i.pinimg.com/474x/40/c0/62/40c0628792a1a479d26cfcc4d020abab.jpg"
   }
 ]
