@@ -1,8 +1,11 @@
 {
   "AdsController": {
-    "adNetwork": "applovin",
-    "applovinBanner": "d01290b56fca7d17",
-    "applovinInterstitial": "c531e9a2c049d34d",
+    "adNetwork": "unity",
+    "applovinInterstitial": "4b2cee28df445710",
+    
+    "unityGameId": "5512742",
+    "unityInterstitial": "Interstitial_Android",
+    
     "ratingactive": true,
     "appsuspand": "false",
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
