@@ -2,8 +2,8 @@
   "AdsController": {
     "adNetwork": "admob",
     "ratingactive": true,
-    "appsuspand": "false",
-    "appURLsuspand": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
+    "appsuspand": "true",
+    "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
     "modeads": true,
     "IMG1_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=xxxxxxx",
