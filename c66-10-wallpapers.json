@@ -50,10 +50,10 @@
   },
     {
     "name": "iPhone 14",
-    "url": "https://i.pinimg.com/474x/52/f4/25/52f4251c4085a148173f912d5895e617.jpg",
-    "previewUrl": "https://i.pinimg.com/474x/52/f4/25/52f4251c4085a148173f912d5895e617.jpg",
+    "url": "https://i.pinimg.com/564x/dc/cf/60/dccf60281a812da3be51d1dc5e0a63d2.jpg",
+    "previewUrl": "https://i.pinimg.com/564x/dc/cf/60/dccf60281a812da3be51d1dc5e0a63d2.jpg",
     "categories": "iPhone 14",
-    "premium": false
+    "premium": true
   },
     {
     "name": "iPhone 14",
@@ -67,7 +67,7 @@
     "url": "https://w0.peakpx.com/wallpaper/482/745/HD-wallpaper-iphone-14-pro-max-apple-logo.jpg",
     "previewUrl": "https://w0.peakpx.com/wallpaper/482/745/HD-wallpaper-iphone-14-pro-max-apple-logo.jpg",
     "categories": "iPhone 14",
-    "premium": true
+    "premium": false
   },
     {
     "name": "iPhone 15 Pro Max",
@@ -148,10 +148,17 @@
   },
     {
     "name": "iPhone 15 Pro Max",
-    "url": "https://i.pinimg.com/474x/8c/5c/bf/8c5cbf4c9955a40b35c4df1912c1c5e3.jpg",
-    "previewUrl": "https://i.pinimg.com/474x/8c/5c/bf/8c5cbf4c9955a40b35c4df1912c1c5e3.jpg",
+    "url": "https://i.pinimg.com/564x/9b/ca/1c/9bca1c70da858505f59500b26394ebf6.jpg",
+    "previewUrl": "https://i.pinimg.com/564x/9b/ca/1c/9bca1c70da858505f59500b26394ebf6.jpg",
     "categories": "iOS Wallpapers",
     "premium": true
+  },
+    {
+    "name": "iPhone 15 Pro Max",
+    "url": "https://i.pinimg.com/564x/36/2e/3d/362e3d4719ef3caf1eb9e81ae1877a9c.jpg",
+    "previewUrl": "https://i.pinimg.com/564x/36/2e/3d/362e3d4719ef3caf1eb9e81ae1877a9c.jpg",
+    "categories": "iOS Wallpapers",
+    "premium": false
   },
     {
     "name": "iPhone 15 Pro Max",
